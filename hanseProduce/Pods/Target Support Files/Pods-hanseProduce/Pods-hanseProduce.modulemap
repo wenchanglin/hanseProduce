@@ -1,0 +1,6 @@
+module Pods_hanseProduce {
+  umbrella header "Pods-hanseProduce-umbrella.h"
+
+  export *
+  module * { export * }
+}
